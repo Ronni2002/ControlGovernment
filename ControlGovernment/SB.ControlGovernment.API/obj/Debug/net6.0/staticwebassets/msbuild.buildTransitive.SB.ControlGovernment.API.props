@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/SB.ControlGovernment.API.props" />
+</Project>

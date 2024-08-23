@@ -1,0 +1,102 @@
+C:/Users/RonnyFlorian/Documents/Government control/ControlGovernment/SB.ControlGovernment.API/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/RonnyFlorian/Documents/Government control/ControlGovernment/SB.ControlGovernment.API/bin/Debug/net6.0/appsettings.json
+C:/Users/RonnyFlorian/Documents/Government control/ControlGovernment/SB.ControlGovernment.API/bin/Debug/net6.0/App_Data/GovernmentEntities.txt
+C:/Users/RonnyFlorian/Documents/Government control/ControlGovernment/SB.ControlGovernment.API/bin/Debug/net6.0/SB.ControlGovernment.API.exe
+C:/Users/RonnyFlorian/Documents/Government control/ControlGovernment/SB.ControlGovernment.API/bin/Debug/net6.0/SB.ControlGovernment.API.deps.json
+C:/Users/RonnyFlorian/Documents/Government control/ControlGovernment/SB.ControlGovernment.API/bin/Debug/net6.0/SB.ControlGovernment.API.runtimeconfig.json
+C:/Users/RonnyFlorian/Documents/Government control/ControlGovernment/SB.ControlGovernment.API/bin/Debug/net6.0/SB.ControlGovernment.API.dll
+C:/Users/RonnyFlorian/Documents/Government control/ControlGovernment/SB.ControlGovernment.API/bin/Debug/net6.0/SB.ControlGovernment.API.pdb
+C:/Users/RonnyFlorian/Documents/Government control/ControlGovernment/SB.ControlGovernment.API/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/RonnyFlorian/Documents/Government control/ControlGovernment/SB.ControlGovernment.API/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/RonnyFlorian/Documents/Government control/ControlGovernment/SB.ControlGovernment.API/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/RonnyFlorian/Documents/Government control/ControlGovernment/SB.ControlGovernment.API/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+C:/Users/RonnyFlorian/Documents/Government control/ControlGovernment/SB.ControlGovernment.API/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/RonnyFlorian/Documents/Government control/ControlGovernment/SB.ControlGovernment.API/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/RonnyFlorian/Documents/Government control/ControlGovernment/SB.ControlGovernment.API/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/RonnyFlorian/Documents/Government control/ControlGovernment/SB.ControlGovernment.API/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/RonnyFlorian/Documents/Government control/ControlGovernment/SB.ControlGovernment.API/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/RonnyFlorian/Documents/Government control/ControlGovernment/SB.ControlGovernment.API/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/RonnyFlorian/Documents/Government control/ControlGovernment/SB.ControlGovernment.API/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/RonnyFlorian/Documents/Government control/ControlGovernment/SB.ControlGovernment.API/bin/Debug/net6.0/Newtonsoft.Json.dll
+C:/Users/RonnyFlorian/Documents/Government control/ControlGovernment/SB.ControlGovernment.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/RonnyFlorian/Documents/Government control/ControlGovernment/SB.ControlGovernment.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/RonnyFlorian/Documents/Government control/ControlGovernment/SB.ControlGovernment.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/RonnyFlorian/Documents/Government control/ControlGovernment/SB.ControlGovernment.API/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/RonnyFlorian/Documents/Government control/ControlGovernment/SB.ControlGovernment.API/bin/Debug/net6.0/SB.ControlGovernment.Application.dll
+C:/Users/RonnyFlorian/Documents/Government control/ControlGovernment/SB.ControlGovernment.API/bin/Debug/net6.0/SB.ControlGovernment.Domain.dll
+C:/Users/RonnyFlorian/Documents/Government control/ControlGovernment/SB.ControlGovernment.API/bin/Debug/net6.0/SB.ControlGovernment.Infrastructure.dll
+C:/Users/RonnyFlorian/Documents/Government control/ControlGovernment/SB.ControlGovernment.API/bin/Debug/net6.0/SB.ControlGovernment.Infrastructure.pdb
+C:/Users/RonnyFlorian/Documents/Government control/ControlGovernment/SB.ControlGovernment.API/bin/Debug/net6.0/SB.ControlGovernment.Application.pdb
+C:/Users/RonnyFlorian/Documents/Government control/ControlGovernment/SB.ControlGovernment.API/bin/Debug/net6.0/SB.ControlGovernment.Domain.pdb
+C:/Users/RonnyFlorian/Documents/Government control/ControlGovernment/SB.ControlGovernment.API/obj/Debug/net6.0/SB.ControlGovernment.API.csproj.AssemblyReference.cache
+C:/Users/RonnyFlorian/Documents/Government control/ControlGovernment/SB.ControlGovernment.API/obj/Debug/net6.0/SB.ControlGovernment.API.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/RonnyFlorian/Documents/Government control/ControlGovernment/SB.ControlGovernment.API/obj/Debug/net6.0/SB.ControlGovernment.API.AssemblyInfoInputs.cache
+C:/Users/RonnyFlorian/Documents/Government control/ControlGovernment/SB.ControlGovernment.API/obj/Debug/net6.0/SB.ControlGovernment.API.AssemblyInfo.cs
+C:/Users/RonnyFlorian/Documents/Government control/ControlGovernment/SB.ControlGovernment.API/obj/Debug/net6.0/SB.ControlGovernment.API.csproj.CoreCompileInputs.cache
+C:/Users/RonnyFlorian/Documents/Government control/ControlGovernment/SB.ControlGovernment.API/obj/Debug/net6.0/SB.ControlGovernment.API.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/RonnyFlorian/Documents/Government control/ControlGovernment/SB.ControlGovernment.API/obj/Debug/net6.0/SB.ControlGovernment.API.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/RonnyFlorian/Documents/Government control/ControlGovernment/SB.ControlGovernment.API/obj/Debug/net6.0/staticwebassets/msbuild.SB.ControlGovernment.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/RonnyFlorian/Documents/Government control/ControlGovernment/SB.ControlGovernment.API/obj/Debug/net6.0/staticwebassets/msbuild.build.SB.ControlGovernment.API.props
+C:/Users/RonnyFlorian/Documents/Government control/ControlGovernment/SB.ControlGovernment.API/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.SB.ControlGovernment.API.props
+C:/Users/RonnyFlorian/Documents/Government control/ControlGovernment/SB.ControlGovernment.API/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.SB.ControlGovernment.API.props
+C:/Users/RonnyFlorian/Documents/Government control/ControlGovernment/SB.ControlGovernment.API/obj/Debug/net6.0/staticwebassets.pack.json
+C:/Users/RonnyFlorian/Documents/Government control/ControlGovernment/SB.ControlGovernment.API/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/RonnyFlorian/Documents/Government control/ControlGovernment/SB.ControlGovernment.API/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/RonnyFlorian/Documents/Government control/ControlGovernment/SB.ControlGovernment.API/obj/Debug/net6.0/scopedcss/bundle/SB.ControlGovernment.API.styles.css
+C:/Users/RonnyFlorian/Documents/Government control/ControlGovernment/SB.ControlGovernment.API/obj/Debug/net6.0/SB.ControlGovernment.API.csproj.CopyComplete
+C:/Users/RonnyFlorian/Documents/Government control/ControlGovernment/SB.ControlGovernment.API/obj/Debug/net6.0/SB.ControlGovernment.API.dll
+C:/Users/RonnyFlorian/Documents/Government control/ControlGovernment/SB.ControlGovernment.API/obj/Debug/net6.0/refint/SB.ControlGovernment.API.dll
+C:/Users/RonnyFlorian/Documents/Government control/ControlGovernment/SB.ControlGovernment.API/obj/Debug/net6.0/SB.ControlGovernment.API.pdb
+C:/Users/RonnyFlorian/Documents/Government control/ControlGovernment/SB.ControlGovernment.API/obj/Debug/net6.0/SB.ControlGovernment.API.genruntimeconfig.cache
+C:/Users/RonnyFlorian/Documents/Government control/ControlGovernment/SB.ControlGovernment.API/obj/Debug/net6.0/ref/SB.ControlGovernment.API.dll
+/Users/gabrielabreu/Downloads/ControlGovernment/SB.ControlGovernment.API/bin/Debug/net6.0/appsettings.Development.json
+/Users/gabrielabreu/Downloads/ControlGovernment/SB.ControlGovernment.API/bin/Debug/net6.0/appsettings.json
+/Users/gabrielabreu/Downloads/ControlGovernment/SB.ControlGovernment.API/bin/Debug/net6.0/App_Data/GovernmentEntities.txt
+/Users/gabrielabreu/Downloads/ControlGovernment/SB.ControlGovernment.API/bin/Debug/net6.0/SB.ControlGovernment.API
+/Users/gabrielabreu/Downloads/ControlGovernment/SB.ControlGovernment.API/bin/Debug/net6.0/SB.ControlGovernment.API.deps.json
+/Users/gabrielabreu/Downloads/ControlGovernment/SB.ControlGovernment.API/bin/Debug/net6.0/SB.ControlGovernment.API.runtimeconfig.json
+/Users/gabrielabreu/Downloads/ControlGovernment/SB.ControlGovernment.API/bin/Debug/net6.0/SB.ControlGovernment.API.dll
+/Users/gabrielabreu/Downloads/ControlGovernment/SB.ControlGovernment.API/bin/Debug/net6.0/SB.ControlGovernment.API.pdb
+/Users/gabrielabreu/Downloads/ControlGovernment/SB.ControlGovernment.API/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/gabrielabreu/Downloads/ControlGovernment/SB.ControlGovernment.API/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/gabrielabreu/Downloads/ControlGovernment/SB.ControlGovernment.API/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/gabrielabreu/Downloads/ControlGovernment/SB.ControlGovernment.API/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/Users/gabrielabreu/Downloads/ControlGovernment/SB.ControlGovernment.API/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/gabrielabreu/Downloads/ControlGovernment/SB.ControlGovernment.API/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/gabrielabreu/Downloads/ControlGovernment/SB.ControlGovernment.API/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/gabrielabreu/Downloads/ControlGovernment/SB.ControlGovernment.API/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/gabrielabreu/Downloads/ControlGovernment/SB.ControlGovernment.API/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/gabrielabreu/Downloads/ControlGovernment/SB.ControlGovernment.API/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/gabrielabreu/Downloads/ControlGovernment/SB.ControlGovernment.API/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/gabrielabreu/Downloads/ControlGovernment/SB.ControlGovernment.API/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/gabrielabreu/Downloads/ControlGovernment/SB.ControlGovernment.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/gabrielabreu/Downloads/ControlGovernment/SB.ControlGovernment.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/gabrielabreu/Downloads/ControlGovernment/SB.ControlGovernment.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/gabrielabreu/Downloads/ControlGovernment/SB.ControlGovernment.API/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/gabrielabreu/Downloads/ControlGovernment/SB.ControlGovernment.API/bin/Debug/net6.0/SB.ControlGovernment.Application.dll
+/Users/gabrielabreu/Downloads/ControlGovernment/SB.ControlGovernment.API/bin/Debug/net6.0/SB.ControlGovernment.Domain.dll
+/Users/gabrielabreu/Downloads/ControlGovernment/SB.ControlGovernment.API/bin/Debug/net6.0/SB.ControlGovernment.Infrastructure.dll
+/Users/gabrielabreu/Downloads/ControlGovernment/SB.ControlGovernment.API/bin/Debug/net6.0/SB.ControlGovernment.Infrastructure.pdb
+/Users/gabrielabreu/Downloads/ControlGovernment/SB.ControlGovernment.API/bin/Debug/net6.0/SB.ControlGovernment.Application.pdb
+/Users/gabrielabreu/Downloads/ControlGovernment/SB.ControlGovernment.API/bin/Debug/net6.0/SB.ControlGovernment.Domain.pdb
+/Users/gabrielabreu/Downloads/ControlGovernment/SB.ControlGovernment.API/obj/Debug/net6.0/SB.ControlGovernment.API.csproj.AssemblyReference.cache
+/Users/gabrielabreu/Downloads/ControlGovernment/SB.ControlGovernment.API/obj/Debug/net6.0/SB.ControlGovernment.API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabrielabreu/Downloads/ControlGovernment/SB.ControlGovernment.API/obj/Debug/net6.0/SB.ControlGovernment.API.AssemblyInfoInputs.cache
+/Users/gabrielabreu/Downloads/ControlGovernment/SB.ControlGovernment.API/obj/Debug/net6.0/SB.ControlGovernment.API.AssemblyInfo.cs
+/Users/gabrielabreu/Downloads/ControlGovernment/SB.ControlGovernment.API/obj/Debug/net6.0/SB.ControlGovernment.API.csproj.CoreCompileInputs.cache
+/Users/gabrielabreu/Downloads/ControlGovernment/SB.ControlGovernment.API/obj/Debug/net6.0/SB.ControlGovernment.API.MvcApplicationPartsAssemblyInfo.cs
+/Users/gabrielabreu/Downloads/ControlGovernment/SB.ControlGovernment.API/obj/Debug/net6.0/SB.ControlGovernment.API.MvcApplicationPartsAssemblyInfo.cache
+/Users/gabrielabreu/Downloads/ControlGovernment/SB.ControlGovernment.API/obj/Debug/net6.0/staticwebassets.build.json
+/Users/gabrielabreu/Downloads/ControlGovernment/SB.ControlGovernment.API/obj/Debug/net6.0/staticwebassets.development.json
+/Users/gabrielabreu/Downloads/ControlGovernment/SB.ControlGovernment.API/obj/Debug/net6.0/staticwebassets/msbuild.SB.ControlGovernment.API.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/gabrielabreu/Downloads/ControlGovernment/SB.ControlGovernment.API/obj/Debug/net6.0/staticwebassets/msbuild.build.SB.ControlGovernment.API.props
+/Users/gabrielabreu/Downloads/ControlGovernment/SB.ControlGovernment.API/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.SB.ControlGovernment.API.props
+/Users/gabrielabreu/Downloads/ControlGovernment/SB.ControlGovernment.API/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.SB.ControlGovernment.API.props
+/Users/gabrielabreu/Downloads/ControlGovernment/SB.ControlGovernment.API/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/gabrielabreu/Downloads/ControlGovernment/SB.ControlGovernment.API/obj/Debug/net6.0/scopedcss/bundle/SB.ControlGovernment.API.styles.css
+/Users/gabrielabreu/Downloads/ControlGovernment/SB.ControlGovernment.API/obj/Debug/net6.0/SB.Contr.ED6E6660.Up2Date
+/Users/gabrielabreu/Downloads/ControlGovernment/SB.ControlGovernment.API/obj/Debug/net6.0/SB.ControlGovernment.API.dll
+/Users/gabrielabreu/Downloads/ControlGovernment/SB.ControlGovernment.API/obj/Debug/net6.0/refint/SB.ControlGovernment.API.dll
+/Users/gabrielabreu/Downloads/ControlGovernment/SB.ControlGovernment.API/obj/Debug/net6.0/SB.ControlGovernment.API.pdb
+/Users/gabrielabreu/Downloads/ControlGovernment/SB.ControlGovernment.API/obj/Debug/net6.0/SB.ControlGovernment.API.genruntimeconfig.cache
+/Users/gabrielabreu/Downloads/ControlGovernment/SB.ControlGovernment.API/obj/Debug/net6.0/ref/SB.ControlGovernment.API.dll

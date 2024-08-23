@@ -1,0 +1,18 @@
+[
+  {
+    "Id": 4,
+    "CreatedAt": "0001-01-01T00:00:00",
+    "UpdatedAt": null,
+    "Name": "MIVED",
+    "Type": "Contruccion",
+    "City": "Santo Domingo"
+  },
+  {
+    "Id": 5,
+    "CreatedAt": "0001-01-01T00:00:00",
+    "UpdatedAt": null,
+    "Name": "TSS",
+    "Type": "Finanzas",
+    "City": "Santo Domingo"
+  }
+]

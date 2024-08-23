@@ -1,0 +1,23 @@
+C:/Users/RonnyFlorian/Documents/Government control/ControlGovernment/SB.ControlGovernment.Domain/bin/Debug/net6.0/SB.ControlGovernment.Domain.deps.json
+C:/Users/RonnyFlorian/Documents/Government control/ControlGovernment/SB.ControlGovernment.Domain/bin/Debug/net6.0/SB.ControlGovernment.Domain.dll
+C:/Users/RonnyFlorian/Documents/Government control/ControlGovernment/SB.ControlGovernment.Domain/bin/Debug/net6.0/SB.ControlGovernment.Domain.pdb
+C:/Users/RonnyFlorian/Documents/Government control/ControlGovernment/SB.ControlGovernment.Domain/obj/Debug/net6.0/SB.ControlGovernment.Domain.csproj.AssemblyReference.cache
+C:/Users/RonnyFlorian/Documents/Government control/ControlGovernment/SB.ControlGovernment.Domain/obj/Debug/net6.0/SB.ControlGovernment.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/RonnyFlorian/Documents/Government control/ControlGovernment/SB.ControlGovernment.Domain/obj/Debug/net6.0/SB.ControlGovernment.Domain.AssemblyInfoInputs.cache
+C:/Users/RonnyFlorian/Documents/Government control/ControlGovernment/SB.ControlGovernment.Domain/obj/Debug/net6.0/SB.ControlGovernment.Domain.AssemblyInfo.cs
+C:/Users/RonnyFlorian/Documents/Government control/ControlGovernment/SB.ControlGovernment.Domain/obj/Debug/net6.0/SB.ControlGovernment.Domain.csproj.CoreCompileInputs.cache
+C:/Users/RonnyFlorian/Documents/Government control/ControlGovernment/SB.ControlGovernment.Domain/obj/Debug/net6.0/SB.ControlGovernment.Domain.dll
+C:/Users/RonnyFlorian/Documents/Government control/ControlGovernment/SB.ControlGovernment.Domain/obj/Debug/net6.0/refint/SB.ControlGovernment.Domain.dll
+C:/Users/RonnyFlorian/Documents/Government control/ControlGovernment/SB.ControlGovernment.Domain/obj/Debug/net6.0/SB.ControlGovernment.Domain.pdb
+C:/Users/RonnyFlorian/Documents/Government control/ControlGovernment/SB.ControlGovernment.Domain/obj/Debug/net6.0/ref/SB.ControlGovernment.Domain.dll
+/Users/gabrielabreu/Downloads/ControlGovernment/SB.ControlGovernment.Domain/bin/Debug/net6.0/SB.ControlGovernment.Domain.deps.json
+/Users/gabrielabreu/Downloads/ControlGovernment/SB.ControlGovernment.Domain/bin/Debug/net6.0/SB.ControlGovernment.Domain.dll
+/Users/gabrielabreu/Downloads/ControlGovernment/SB.ControlGovernment.Domain/bin/Debug/net6.0/SB.ControlGovernment.Domain.pdb
+/Users/gabrielabreu/Downloads/ControlGovernment/SB.ControlGovernment.Domain/obj/Debug/net6.0/SB.ControlGovernment.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabrielabreu/Downloads/ControlGovernment/SB.ControlGovernment.Domain/obj/Debug/net6.0/SB.ControlGovernment.Domain.AssemblyInfoInputs.cache
+/Users/gabrielabreu/Downloads/ControlGovernment/SB.ControlGovernment.Domain/obj/Debug/net6.0/SB.ControlGovernment.Domain.AssemblyInfo.cs
+/Users/gabrielabreu/Downloads/ControlGovernment/SB.ControlGovernment.Domain/obj/Debug/net6.0/SB.ControlGovernment.Domain.csproj.CoreCompileInputs.cache
+/Users/gabrielabreu/Downloads/ControlGovernment/SB.ControlGovernment.Domain/obj/Debug/net6.0/SB.ControlGovernment.Domain.dll
+/Users/gabrielabreu/Downloads/ControlGovernment/SB.ControlGovernment.Domain/obj/Debug/net6.0/refint/SB.ControlGovernment.Domain.dll
+/Users/gabrielabreu/Downloads/ControlGovernment/SB.ControlGovernment.Domain/obj/Debug/net6.0/SB.ControlGovernment.Domain.pdb
+/Users/gabrielabreu/Downloads/ControlGovernment/SB.ControlGovernment.Domain/obj/Debug/net6.0/ref/SB.ControlGovernment.Domain.dll

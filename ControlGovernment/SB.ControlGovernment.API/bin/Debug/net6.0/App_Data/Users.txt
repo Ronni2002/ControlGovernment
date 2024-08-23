@@ -1,0 +1,22 @@
+[
+  {
+    "Id": 1,
+    "Name": "ronny",
+    "Email": "ronny",
+    "PasswordHash": "vnIDmJIagq7ChWa6CHHzKCYlsIuOehpMfSrD//FN70ZsxddxxqUg1PUfTmHZFj4tnhf1whc7sDSlNk+n0ihAwA==",
+    "PasswordSalt": "WUgjtnwR95bLn/kkZs034phlAZLW3jaaagKbg97P0Pei/P+Xf2NQB/b35JyaY/Sgc916FVpB+bjyjaPEuRmzgChE0d+/FvqssPzcgHRh0ffh7Bg9eEFEjtCCJnPMJcx1LjFi2X3BQyoqHyPpjR5vYOSky6UmZUYXu4glvjYJ/PY=",
+    "Role": "Admin",
+    "CreatedAt": "2024-08-22T20:02:03.6290775Z",
+    "UpdatedAt": null
+  },
+  {
+    "Id": 2,
+    "Name": "ronyy",
+    "Email": "ronny",
+    "PasswordHash": "IrQ3jojojh+hJaXjzpTxlyG4PL7YfF7bEmORl7kZLYbFcuHf1fgN/r6uIbcG7HaJT9l9n8dhW3dqqolmlVG+Wg==",
+    "PasswordSalt": "wwMm0O8zDcUPE7EFdkEKGscAkGN6v6hMvZ3p77ZJvrq20bHbYHUwmbGlHPjJN4jnmauusVYlZvrtGF0IiZlcEPp+cgp/heKYfqm7Es1+MHjckPirCaSpv+AHL4I+M5Ni/DXJgyhabpC3rXrnC0grZTGceNbb0LtH/5iRfMqlRjc=",
+    "Role": "Administrador",
+    "CreatedAt": "2024-08-23T04:24:11.4212453Z",
+    "UpdatedAt": null
+  }
+]

@@ -1,0 +1,232 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\RonnyFlorian\\Documents\\Government control\\controlGoverment-api\\ControlGovernment\\SB.ControlGovernment.API\\SB.ControlGovernment.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\RonnyFlorian\\Documents\\Government control\\controlGoverment-api\\ControlGovernment\\SB.ControlGovernment.API\\SB.ControlGovernment.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\RonnyFlorian\\Documents\\Government control\\controlGoverment-api\\ControlGovernment\\SB.ControlGovernment.API\\SB.ControlGovernment.API.csproj",
+        "projectName": "SB.ControlGovernment.API",
+        "projectPath": "C:\\Users\\RonnyFlorian\\Documents\\Government control\\controlGoverment-api\\ControlGovernment\\SB.ControlGovernment.API\\SB.ControlGovernment.API.csproj",
+        "packagesPath": "C:\\Users\\RonnyFlorian\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\RonnyFlorian\\Documents\\Government control\\controlGoverment-api\\ControlGovernment\\SB.ControlGovernment.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\RonnyFlorian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\RonnyFlorian\\Documents\\Government control\\controlGoverment-api\\ControlGovernment\\SB.ControlGovernment.Infrastructure\\SB.ControlGovernment.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\RonnyFlorian\\Documents\\Government control\\controlGoverment-api\\ControlGovernment\\SB.ControlGovernment.Infrastructure\\SB.ControlGovernment.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\RonnyFlorian\\Documents\\Government control\\controlGoverment-api\\ControlGovernment\\SB.ControlGovernment.Application\\SB.ControlGovernment.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\RonnyFlorian\\Documents\\Government control\\controlGoverment-api\\ControlGovernment\\SB.ControlGovernment.Application\\SB.ControlGovernment.Application.csproj",
+        "projectName": "SB.ControlGovernment.Application",
+        "projectPath": "C:\\Users\\RonnyFlorian\\Documents\\Government control\\controlGoverment-api\\ControlGovernment\\SB.ControlGovernment.Application\\SB.ControlGovernment.Application.csproj",
+        "packagesPath": "C:\\Users\\RonnyFlorian\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\RonnyFlorian\\Documents\\Government control\\controlGoverment-api\\ControlGovernment\\SB.ControlGovernment.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\RonnyFlorian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\RonnyFlorian\\Documents\\Government control\\controlGoverment-api\\ControlGovernment\\SB.ControlGovernment.Domain\\SB.ControlGovernment.Domain.csproj": {
+                "projectPath": "C:\\Users\\RonnyFlorian\\Documents\\Government control\\controlGoverment-api\\ControlGovernment\\SB.ControlGovernment.Domain\\SB.ControlGovernment.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\RonnyFlorian\\Documents\\Government control\\controlGoverment-api\\ControlGovernment\\SB.ControlGovernment.Domain\\SB.ControlGovernment.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\RonnyFlorian\\Documents\\Government control\\controlGoverment-api\\ControlGovernment\\SB.ControlGovernment.Domain\\SB.ControlGovernment.Domain.csproj",
+        "projectName": "SB.ControlGovernment.Domain",
+        "projectPath": "C:\\Users\\RonnyFlorian\\Documents\\Government control\\controlGoverment-api\\ControlGovernment\\SB.ControlGovernment.Domain\\SB.ControlGovernment.Domain.csproj",
+        "packagesPath": "C:\\Users\\RonnyFlorian\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\RonnyFlorian\\Documents\\Government control\\controlGoverment-api\\ControlGovernment\\SB.ControlGovernment.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\RonnyFlorian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\RonnyFlorian\\Documents\\Government control\\controlGoverment-api\\ControlGovernment\\SB.ControlGovernment.Infrastructure\\SB.ControlGovernment.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\RonnyFlorian\\Documents\\Government control\\controlGoverment-api\\ControlGovernment\\SB.ControlGovernment.Infrastructure\\SB.ControlGovernment.Infrastructure.csproj",
+        "projectName": "SB.ControlGovernment.Infrastructure",
+        "projectPath": "C:\\Users\\RonnyFlorian\\Documents\\Government control\\controlGoverment-api\\ControlGovernment\\SB.ControlGovernment.Infrastructure\\SB.ControlGovernment.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\RonnyFlorian\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\RonnyFlorian\\Documents\\Government control\\controlGoverment-api\\ControlGovernment\\SB.ControlGovernment.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\RonnyFlorian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\RonnyFlorian\\Documents\\Government control\\controlGoverment-api\\ControlGovernment\\SB.ControlGovernment.Application\\SB.ControlGovernment.Application.csproj": {
+                "projectPath": "C:\\Users\\RonnyFlorian\\Documents\\Government control\\controlGoverment-api\\ControlGovernment\\SB.ControlGovernment.Application\\SB.ControlGovernment.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

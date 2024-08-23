@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>194a720e-b024-47ef-bfca-717c2f34a89e</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\Assets\logo-sb.svg" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,95 @@
+﻿@model IEnumerable<ControlGovernmentFront.Models.GovernmentEntity>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Government Entities</title>
+    <link rel="stylesheet" href="~/css/site.css" />
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+    <div>
+        <button id="createBtn">Add New</button>
+        <table border="1">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Name</th>
+                    <th>Type</th>
+                    <th>City</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @{
+                    // Si el modelo es null, lo inicializamos como una lista vacía
+                    var entities = Model ?? new List<ControlGovernmentFront.Models.GovernmentEntity>();
+                }
+
+                @foreach (var item in entities)
+                {
+                    <tr>
+                        <td>@item.Id</td>
+                        <td>@item.Name</td>
+                        <td>@item.Type</td>
+                        <td>@item.City</td>
+                        <td>
+                            <button class="editBtn" data-id="@item.Id">Edit</button>
+                            <form asp-action="Delete" method="post" style="display:inline">
+                                <input type="hidden" name="id" value="@item.Id" />
+                                <button type="submit">Delete</button>
+                            </form>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+
+    <!-- Popup Modal -->
+    <div id="popup" style="display:none;">
+        <form id="form" method="post">
+            <input type="hidden" id="Id" name="Id" />
+            <label for="Name">Name:</label>
+            <input type="text" id="Name" name="Name" required />
+            <label for="Type">Type:</label>
+            <input type="text" id="Type" name="Type" required />
+            <label for="City">City:</label>
+            <input type="text" id="City" name="City" required />
+            <button type="submit">Save</button>
+            <button type="button" id="closeBtn">Cancel</button>
+        </form>
+    </div>
+
+    <script>
+        $(document).ready(function () {
+            $('#createBtn').on('click', function () {
+                $('#popup').show();
+                $('#form').attr('action', '@Url.Action("Create")');
+                $('#Id').val('');
+                $('#Name').val('');
+                $('#Type').val('');
+                $('#City').val('');
+            });
+
+            $('.editBtn').on('click', function () {
+                const id = $(this).data('id');
+                $.get(`@Url.Action("Edit", new { id = "" })/${id}`, function (data) {
+                    $('#popup').show();
+                    $('#form').attr('action', '@Url.Action("Edit")');
+                    $('#Id').val(data.id);
+                    $('#Name').val(data.name);
+                    $('#Type').val(data.type);
+                    $('#City').val(data.city);
+                });
+            });
+
+            $('#closeBtn').on('click', function () {
+                $('#popup').hide();
+            });
+        });
+    </script>
+</body>
+</html>
